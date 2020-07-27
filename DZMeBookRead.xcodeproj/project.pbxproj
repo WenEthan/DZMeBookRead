@@ -82,7 +82,7 @@
 		AF5952F822697557007DF477 /* DZMRMFuncView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5952F722697557007DF477 /* DZMRMFuncView.swift */; };
 		AF5952FA22697599007DF477 /* DZMRMProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5952F922697599007DF477 /* DZMRMProgressView.swift */; };
 		AF5952FC2269B814007DF477 /* DZMReadModel+Mark.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF5952FB2269B814007DF477 /* DZMReadModel+Mark.swift */; };
-		AF5952FE2269D57D007DF477 /* 求魔.txt in Resources */ = {isa = PBXBuildFile; fileRef = AF5952FD2269D57D007DF477 /* 求魔.txt */; };
+		AF5952FE2269D57D007DF477 /* 心经.txt in Resources */ = {isa = PBXBuildFile; fileRef = AF5952FD2269D57D007DF477 /* 心经.txt */; };
 		AFF8192324206A8C00C466B4 /* DZMPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AFF8192224206A8C00C466B4 /* DZMPageViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -195,7 +195,7 @@
 		AF5952F722697557007DF477 /* DZMRMFuncView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DZMRMFuncView.swift; sourceTree = "<group>"; };
 		AF5952F922697599007DF477 /* DZMRMProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DZMRMProgressView.swift; sourceTree = "<group>"; };
 		AF5952FB2269B814007DF477 /* DZMReadModel+Mark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DZMReadModel+Mark.swift"; sourceTree = "<group>"; };
-		AF5952FD2269D57D007DF477 /* 求魔.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "求魔.txt"; sourceTree = "<group>"; };
+		AF5952FD2269D57D007DF477 /* 心经.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "心经.txt"; sourceTree = "<group>"; };
 		AFF8192224206A8C00C466B4 /* DZMPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DZMPageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -276,7 +276,7 @@
 				AF48FA9E2266D08400850378 /* Info.plist */,
 				AF48FAD12266D26A00850378 /* DZMMainController.swift */,
 				AF48FAC12266D15C00850378 /* DZMeBookRead-Bridging-Header.h */,
-				AF5952FD2269D57D007DF477 /* 求魔.txt */,
+				AF5952FD2269D57D007DF477 /* 心经.txt */,
 			);
 			path = DZMeBookRead;
 			sourceTree = "<group>";
@@ -655,7 +655,7 @@
 				AF4B3EA52277EAF000CEC375 /* magnifier_1.png in Resources */,
 				AF48FA9D2266D08400850378 /* LaunchScreen.storyboard in Resources */,
 				AF48FA9A2266D08400850378 /* Assets.xcassets in Resources */,
-				AF5952FE2269D57D007DF477 /* 求魔.txt in Resources */,
+				AF5952FE2269D57D007DF477 /* 心经.txt in Resources */,
 				AF48FACA2266D1A600850378 /* MBProgressHUD.bundle in Resources */,
 				AF4B3EA42277EAF000CEC375 /* magnifier_0.png in Resources */,
 			);
