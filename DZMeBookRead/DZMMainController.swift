@@ -82,7 +82,7 @@ class DZMMainController: DZMViewController {
         
         MBProgressHUD.showLoading("全本解析(第一次进入)速度慢", to: view)
       
-        let url = Bundle.main.url(forResource: "求魔", withExtension: "txt")
+        let url = Bundle.main.url(forResource: "心经", withExtension: "txt")
         
         print("全本解析开始时间:",TimerString("YYYY-MM-dd-HH-mm-ss"), Date().timeIntervalSince1970)
         
@@ -114,7 +114,7 @@ class DZMMainController: DZMViewController {
         
         MBProgressHUD.showLoading("正在快速解析全文...", to: view)
         
-        let url = Bundle.main.url(forResource: "求魔", withExtension: "txt")
+        let url = Bundle.main.url(forResource: "心经", withExtension: "txt")
         
         print("快速解析开始时间:",TimerString("YYYY-MM-dd-HH-mm-ss"), Date().timeIntervalSince1970)
         
