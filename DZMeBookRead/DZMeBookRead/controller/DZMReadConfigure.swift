@@ -230,7 +230,7 @@ class DZMReadConfigure: NSObject {
             // 段间距
             paragraphStyle.paragraphSpacing = 0
             
-            // 对其
+            // 对齐
             paragraphStyle.alignment = .center
             
         }else{
@@ -241,7 +241,7 @@ class DZMReadConfigure: NSObject {
             // 段间距
             paragraphStyle.paragraphSpacing = paragraphSpacing
             
-            // 对其
+            // 对齐
             paragraphStyle.alignment = .justified
         }
         
